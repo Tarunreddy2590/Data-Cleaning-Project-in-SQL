@@ -1,5 +1,12 @@
 # 📊 Data Cleaning Projects in SQL
 
+## 🎯 Primary Objective
+
+To transform a disorganized and inconsistent dataset into a clean, reliable, and analysis-ready format using SQL — ensuring accurate insights, improved data quality, and better decision-making support.
+
+---
+
+
 This project showcases essential data cleaning techniques using **MySQL**, focused on preparing a messy raw dataset for analysis. The goal was to create a clean, consistent, and usable dataset by addressing issues commonly found in real-world data.
 
 ---
